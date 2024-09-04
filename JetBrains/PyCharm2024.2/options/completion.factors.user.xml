@@ -1,0 +1,59 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="02-09-2024">
+        <observation name="cancelled" value="21.0" />
+        <observation name="explicitSelect" value="9.0" />
+        <observation name="typedSelect" value="9.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="02-09-2024">
+        <observation name="BASIC" value="36.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="02-09-2024">
+        <observation name="count" value="39.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="02-09-2024">
+        <observation name="0" value="9.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="02-09-2024">
+        <observation name="total" value="6.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="02-09-2024">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="2.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="2.0" />
+        <observation name="4" value="1.0" />
+        <observation name="5" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="02-09-2024">
+        <observation name="GREEDY" value="1.0" />
+        <observation name="START_WITH" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="02-09-2024">
+        <observation name="totalStartingWithPrefix" value="8.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="02-09-2024">
+        <observation name="average" value="337.293333" />
+        <observation name="count" value="75.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

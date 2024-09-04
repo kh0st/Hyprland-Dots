@@ -1,0 +1,529 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="VirtEnv" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="omzccxk6gerr" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/test_task1.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"test_task1.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "CSV/TSV": {
+      "usageCount": 2,
+      "lastUsed": 1725302044914
+    },
+    "Python": {
+      "usageCount": 7,
+      "lastUsed": 1725303001948
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="7" lastUsage="1725303001949" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1725302044914" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VirtEnv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/carbon/VirtEnv}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="VirtEnv" />
+            <item name="VirtEnv" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="VirtEnv" />
+              <item name="dir{file:///home/carbon/VirtEnv}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bin" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bin" />
+                <item name="dir{file:///home/carbon/VirtEnv/bin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/centernet_hg104_1024x1024_kpts_coco17_tpu-32" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="centernet_hg104_1024x1024_kpts_coco17_tpu-32" />
+                <item name="dir{file:///home/carbon/VirtEnv/centernet_hg104_1024x1024_kpts_coco17_tpu-32}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/include" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="include" />
+                <item name="dir{file:///home/carbon/VirtEnv/include}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                <item name="dir{file:///home/carbon/VirtEnv/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib64" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lib64" />
+                <item name="dir{file:///home/carbon/VirtEnv/lib64}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/myenv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="myenv" />
+                <item name="dir{file:///home/carbon/VirtEnv/myenv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/notebooks" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="notebooks" />
+                <item name="dir{file:///home/carbon/VirtEnv/notebooks}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/share" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="share" />
+                <item name="dir{file:///home/carbon/VirtEnv/share}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/carbon/VirtEnv/src}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Student_Local_Testing" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Student_Local_Testing" />
+                <item name="dir{file:///home/carbon/VirtEnv/Student_Local_Testing}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task1" />
+                <item name="dir{file:///home/carbon/VirtEnv/task1}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task2" />
+                <item name="dir{file:///home/carbon/VirtEnv/task2}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task3" />
+                <item name="dir{file:///home/carbon/VirtEnv/task3}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task4" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task4" />
+                <item name="dir{file:///home/carbon/VirtEnv/task4}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task5" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task5" />
+                <item name="dir{file:///home/carbon/VirtEnv/task5}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="tests" />
+                <item name="dir{file:///home/carbon/VirtEnv/tests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="venv" />
+                <item name="dir{file:///home/carbon/VirtEnv/venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/centernet_hg104_1024x1024_kpts_coco17_tpu-32.tar.gz" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="centernet_hg104_1024x1024_kpts_coco17_tpu-32.tar.gz" />
+                <item name="centernet_hg104_1024x1024_kpts_coco17_tpu-32.tar.gz" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/env.yml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text="env.yml" />
+                <item name="env.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/env.yml.1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="env.yml.1" />
+                <item name="env.yml.1" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/mscoco_label_map.pbtxt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="mscoco_label_map.pbtxt" />
+                <item name="mscoco_label_map.pbtxt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pyvenv.cfg" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/debugger/threads.svg" iconPlugin="com.intellij" isLeaf="true" text="pyvenv.cfg" />
+                <item name="pyvenv.cfg" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/run_tests.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="run_tests.py" />
+                <item name="run_tests.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/setup_conda_and_project.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="setup_conda_and_project.sh" />
+                <item name="setup_conda_and_project.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Student_Local_Testing.zip.1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="Student_Local_Testing.zip.1" />
+                <item name="Student_Local_Testing.zip.1" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/testvision.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="testvision.py" />
+                <item name="testvision.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/unittest&#13;" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="unittest&#13;" />
+                <item name="unittest&#13;" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Shell Script.setup_conda_and_project.sh" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 35m 58s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 36m 39s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 37m 12s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 37m 51s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 38m 11s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 38m 59s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 39m 27s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 39m 44s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 48m 22s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task1_py - 2024.09.02 at 13h 48m 58s.xml">
+      <configuration name="pytest in test_task1.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1250000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33011812" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994092" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32994092" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.32994092" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.32994092" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32994092" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.32994092" left="0.33011812" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>Problems View</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2458" height="459" key="GridCell.Tab.0.bottom" timestamp="1725302946615">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="459" key="GridCell.Tab.0.bottom/0.0.2560.1600@0.0.2560.1600" timestamp="1725302946615" />
+    <state width="2458" height="459" key="GridCell.Tab.0.center" timestamp="1725302946615">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="459" key="GridCell.Tab.0.center/0.0.2560.1600@0.0.2560.1600" timestamp="1725302946615" />
+    <state width="2458" height="459" key="GridCell.Tab.0.left" timestamp="1725302946615">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="459" key="GridCell.Tab.0.left/0.0.2560.1600@0.0.2560.1600" timestamp="1725302946615" />
+    <state width="2458" height="459" key="GridCell.Tab.0.right" timestamp="1725302946615">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="459" key="GridCell.Tab.0.right/0.0.2560.1600@0.0.2560.1600" timestamp="1725302946615" />
+    <state x="2145" y="1410" width="384" height="139" key="ProcessPopupWindow" timestamp="1725301980220">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="2145" y="1410" width="384" height="139" key="ProcessPopupWindow/0.0.2560.1600@0.0.2560.1600" timestamp="1725301980220" />
+    <state x="1519" y="502" key="PythonInterpreterConfigurable.size" timestamp="1725302811304">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="1519" y="502" key="PythonInterpreterConfigurable.size/0.0.2560.1600@0.0.2560.1600" timestamp="1725302811304" />
+    <state x="1428" y="478" key="SettingsEditor" timestamp="1725302863799">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="1428" y="478" key="SettingsEditor/0.0.2560.1600@0.0.2560.1600" timestamp="1725302863799" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task1/drop_na_rows.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV_1" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+              <header>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </header>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_python_package_versions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/drop_na_cols.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV_1" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+              <header>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </header>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_task1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

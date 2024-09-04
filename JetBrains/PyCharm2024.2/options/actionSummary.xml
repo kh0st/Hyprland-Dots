@@ -1,0 +1,157 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1725310147304" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1725305164980" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1725311656599" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1725304901341" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1725302946610" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1725308377533" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="149" l="1725311686259" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="10" l="1725308407634" />
+    </e>
+    <e n="EditorDelete">
+      <i c="186" l="1725311677609" />
+    </e>
+    <e n="EditorDown">
+      <i c="129" l="1725311683788" />
+    </e>
+    <e n="EditorEnter">
+      <i c="10" l="1725308529925" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1725305853879" />
+    </e>
+    <e n="EditorLeft">
+      <i c="148" l="1725311668315" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="6" l="1725310098955" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="1" l="1725308344554" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="10" l="1725311681583" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1725310100137" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1725304705092" />
+    </e>
+    <e n="EditorRight">
+      <i c="117" l="1725311490660" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1725305686409" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1725305762305" />
+    </e>
+    <e n="EditorUp">
+      <i c="71" l="1725311686646" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1725305417207" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1725302975598" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="1" l="1725308339934" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1725305053112" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="2" l="1725303238733" />
+    </e>
+    <e n="NotebookRunCellSelectBelowAction">
+      <i c="1" l="1725311525396" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1725304531165" />
+    </e>
+    <e n="Run">
+      <i c="35" l="1725311707051" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1725303015920" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1725305058395" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1725304979406" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1725311552993" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="1" l="1725305165689" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1725305629709" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1725304675710" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyActionGroupWrapper">
+      <i c="1" l="1725302484878" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="42" l="1725306184810" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="13" l="1725304978077" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1725304483850" />
+    </e>
+    <e n="com.intellij.terminal.actions.TerminalActionWrapper">
+      <i c="1" l="1725305157363" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1725305074163" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="4" l="1725304682876" />
+    </e>
+    <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+      <i c="2" l="1725304991747" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1725308360097" />
+    </e>
+    <e n="com.jetbrains.python.packaging.repository.PyRepositoriesList$createActions$add$1">
+      <i c="1" l="1725304678941" />
+    </e>
+    <e n="com.jetbrains.python.packaging.toolwindow.PyPackagesTable$4">
+      <i c="4" l="1725302336145" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1725302489166" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="1" l="1725304546786" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.visualization.ui.EditorCellRunGutterButton$RunCellGutterAction">
+      <i c="14" l="1725311554799" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Downloads" value="true" />
+        <entry key="$USER_HOME$/Downloads/pythonProject1" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject1" value="true" />
+        <entry key="$USER_HOME$/VirtEnv" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

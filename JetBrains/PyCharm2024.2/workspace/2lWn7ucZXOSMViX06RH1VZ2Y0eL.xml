@@ -1,0 +1,803 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Downloads" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="omzccxk6gerr" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/task1/sample.csv">
+          <provider editor-type-id="text-editor" selected="true" />
+          <provider editor-type-id="csv-data-editor">
+            <state>
+              <format>
+                <csv-format name="CSV_1" id="Comma-separated (CSV)_id">
+                  <data>
+                    <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                      <quotation>
+                        <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                        <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                      </quotation>
+                    </record-format>
+                  </data>
+                  <header>
+                    <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                      <quotation>
+                        <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                        <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                      </quotation>
+                    </record-format>
+                  </header>
+                </csv-format>
+              </format>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"sample.csv","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task1.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"task1.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/run_tests.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"run_tests.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/notebooks/IntroductiontoNotebooks.ipynb">
+          <provider editor-type-id="jupyter-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"IntroductiontoNotebooks.ipynb","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-46,1,10,65,105,99,111,110,115,47,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,46,115,118,103,18,71,105,99,111,110,115,47,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,47,101,120,112,117,105,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,46,115,118,103,26,27,99,111,109,46,105,110,116,101,108,108,105,106,46,110,111,116,101,98,111,111,107,115,46,99,111,114,101,34,31,105,110,116,101,108,108,105,106,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,46,99,111,114,101,40,-46,-87,-61,-19,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/notebooks/Task1.ipynb">
+          <provider editor-type-id="jupyter-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Task1.ipynb","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-46,1,10,65,105,99,111,110,115,47,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,46,115,118,103,18,71,105,99,111,110,115,47,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,47,101,120,112,117,105,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,46,115,118,103,26,27,99,111,109,46,105,110,116,101,108,108,105,106,46,110,111,116,101,98,111,111,107,115,46,99,111,114,101,34,31,105,110,116,101,108,108,105,106,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,46,99,111,114,101,40,-46,-87,-61,-19,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/task1/sample2.csv">
+          <provider editor-type-id="text-editor" selected="true" />
+          <provider editor-type-id="csv-data-editor">
+            <state>
+              <format>
+                <csv-format name="CSV_1" id="Comma-separated (CSV)_id">
+                  <data>
+                    <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                      <quotation>
+                        <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                        <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                      </quotation>
+                    </record-format>
+                  </data>
+                  <header>
+                    <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                      <quotation>
+                        <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                        <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                      </quotation>
+                    </record-format>
+                  </header>
+                </csv-format>
+              </format>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"sample2.csv","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 7,
+      "lastUsed": 1725311381665
+    },
+    "CSV/TSV": {
+      "usageCount": 6,
+      "lastUsed": 1725308289124
+    },
+    "Jupyter": {
+      "usageCount": 4,
+      "lastUsed": 1725311392967
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/task1.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="fe6ba7cf-367b-4f2d-8043-48dd2f066141" />
+  <component name="LanguageUsageStatistics">
+    <language id="Jupyter">
+      <summary usageCount="4" lastUsage="1725311392967" />
+    </language>
+    <language id="Python">
+      <summary usageCount="7" lastUsage="1725311381665" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1725308289124" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Downloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/carbon/Downloads}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Downloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/carbon/Downloads}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/carbon/Downloads/notebooks}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Downloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/carbon/Downloads}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/carbon/Downloads/pythonProject1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Downloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/carbon/Downloads}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/carbon/Downloads/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Downloads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/carbon/Downloads}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/carbon/Downloads/task1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Downloads" />
+            <item name="Downloads" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Downloads" />
+              <item name="dir{file:///home/carbon/Downloads}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/notebooks" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="notebooks" />
+                <item name="dir{file:///home/carbon/Downloads/notebooks}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/.ipynb_checkpoints" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".ipynb_checkpoints" />
+                  <item name="dir{file:///home/carbon/Downloads/notebooks/.ipynb_checkpoints}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/IntroductiontoNotebooks.ipynb" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="IntroductiontoNotebooks.ipynb" />
+                  <item name="IntroductiontoNotebooks.ipynb" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/Task1.ipynb" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="Task1.ipynb" />
+                  <item name="Task1.ipynb" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/Task2.ipynb" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="Task2.ipynb" />
+                  <item name="Task2.ipynb" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/Task3.ipynb" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="Task3.ipynb" />
+                  <item name="Task3.ipynb" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/Task4.ipynb" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="Task4.ipynb" />
+                  <item name="Task4.ipynb" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pythonProject1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pythonProject1" />
+                <item name="dir{file:///home/carbon/Downloads/pythonProject1}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/pythonProject1/.idea" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                  <item name="dir{file:///home/carbon/Downloads/pythonProject1/.idea}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/pythonProject1/Untitled Folder" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Untitled Folder" />
+                  <item name="dir{file:///home/carbon/Downloads/pythonProject1/Untitled Folder}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/carbon/Downloads/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/.idea" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                  <item name="dir{file:///home/carbon/Downloads/src/.idea}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/__init__.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                  <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/task1.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task1.py" />
+                  <item name="task1.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/task2.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task2.py" />
+                  <item name="task2.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/task3.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task3.py" />
+                  <item name="task3.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/task4.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task4.py" />
+                  <item name="task4.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/task5.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task5.py" />
+                  <item name="task5.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/task_video.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="task_video.py" />
+                  <item name="task_video.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Student_Local_Testing" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Student_Local_Testing" />
+                <item name="dir{file:///home/carbon/Downloads/Student_Local_Testing}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task1" />
+                <item name="dir{file:///home/carbon/Downloads/task1}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/.ipynb_checkpoints" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".ipynb_checkpoints" />
+                  <item name="dir{file:///home/carbon/Downloads/task1/.ipynb_checkpoints}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/pkl_files" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pkl_files" />
+                  <item name="dir{file:///home/carbon/Downloads/task1/pkl_files}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/drop_na_cols.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="drop_na_cols.csv" />
+                  <item name="drop_na_cols.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/drop_na_rows.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="drop_na_rows.csv" />
+                  <item name="drop_na_rows.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/left_join_dfs_by_column.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="left_join_dfs_by_column.csv" />
+                  <item name="left_join_dfs_by_column.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/make_df_from_2d_array.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="make_df_from_2d_array.csv" />
+                  <item name="make_df_from_2d_array.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/make_new_column.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="make_new_column.csv" />
+                  <item name="make_new_column.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/reset_index_answer.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="reset_index_answer.csv" />
+                  <item name="reset_index_answer.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/reset_index_input.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="reset_index_input.csv" />
+                  <item name="reset_index_input.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/sample.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="sample.csv" />
+                  <item name="sample.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/sample2.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="sample2.csv" />
+                  <item name="sample2.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/sort_combinations.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="sort_combinations.csv" />
+                  <item name="sort_combinations.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/task1/sort_version_desc.csv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="sort_version_desc.csv" />
+                  <item name="sort_version_desc.csv" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task2" />
+                <item name="dir{file:///home/carbon/Downloads/task2}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task3" />
+                <item name="dir{file:///home/carbon/Downloads/task3}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task4" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task4" />
+                <item name="dir{file:///home/carbon/Downloads/task4}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/task5" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="task5" />
+                <item name="dir{file:///home/carbon/Downloads/task5}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="tests" />
+                <item name="dir{file:///home/carbon/Downloads/tests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/env.yml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text="env.yml" />
+                <item name="env.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/env.yml.1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="env.yml.1" />
+                <item name="env.yml.1" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/env.yml.2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="env.yml.2" />
+                <item name="env.yml.2" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/run_tests.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="run_tests.py" />
+                <item name="run_tests.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/setup_conda_and_project.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="setup_conda_and_project.sh" />
+                <item name="setup_conda_and_project.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/starting_point_kevlarcostar.ovpn" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="starting_point_kevlarcostar.ovpn" />
+                <item name="starting_point_kevlarcostar.ovpn" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Student_Local_Testing.zip.1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="Student_Local_Testing.zip.1" />
+                <item name="Student_Local_Testing.zip.1" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6103000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12539369" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" id="Structure" order="2" side_tool="true" visible="true" weight="0.12539369" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32994092" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.32994092" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.16343042" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.32994092" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.16343042" />
+      <window_info anchor="bottom" id="Jupyter" order="8" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.16343042" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.16343042" left="0.12539369" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Structure</value>
+      <value>Python Packages</value>
+      <value>Python Console</value>
+      <value>Terminal</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="868" y="499" key="#Python_Package_Repositories" timestamp="1725304713522">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="868" y="499" key="#Python_Package_Repositories/0.0.2560.1600@0.0.2560.1600" timestamp="1725304713522" />
+    <state width="2458" height="209" key="GridCell.Tab.0.bottom" timestamp="1725311707115">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.0.bottom/0.0.2560.1600@0.0.2560.1600" timestamp="1725311707115" />
+    <state width="2458" height="209" key="GridCell.Tab.0.center" timestamp="1725311707114">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.0.center/0.0.2560.1600@0.0.2560.1600" timestamp="1725311707114" />
+    <state width="2458" height="209" key="GridCell.Tab.0.left" timestamp="1725311707114">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.0.left/0.0.2560.1600@0.0.2560.1600" timestamp="1725311707114" />
+    <state width="2458" height="209" key="GridCell.Tab.0.right" timestamp="1725311707115">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.0.right/0.0.2560.1600@0.0.2560.1600" timestamp="1725311707115" />
+    <state width="2458" height="209" key="GridCell.Tab.1.bottom" timestamp="1725308383897">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.1.bottom/0.0.2560.1600@0.0.2560.1600" timestamp="1725308383897" />
+    <state width="2458" height="209" key="GridCell.Tab.1.center" timestamp="1725308383897">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.1.center/0.0.2560.1600@0.0.2560.1600" timestamp="1725308383897" />
+    <state width="2458" height="209" key="GridCell.Tab.1.left" timestamp="1725308383897">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.1.left/0.0.2560.1600@0.0.2560.1600" timestamp="1725308383897" />
+    <state width="2458" height="209" key="GridCell.Tab.1.right" timestamp="1725308383897">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="209" key="GridCell.Tab.1.right/0.0.2560.1600@0.0.2560.1600" timestamp="1725308383897" />
+    <state x="1894" y="1410" width="635" height="139" key="ProcessPopupWindow" timestamp="1725307144430">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="1894" y="1410" width="635" height="139" key="ProcessPopupWindow/0.0.2560.1600@0.0.2560.1600" timestamp="1725307144430" />
+    <state x="784" y="463" key="SettingsEditor" timestamp="1725304999571">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="784" y="463" key="SettingsEditor/0.0.2560.1600@0.0.2560.1600" timestamp="1725304999571" />
+    <state x="868" y="516" width="324" height="324" key="com.intellij.webcore.packaging.ManagePackagesDialog.DimensionServiceKey" timestamp="1725304996386">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="868" y="516" width="324" height="324" key="com.intellij.webcore.packaging.ManagePackagesDialog.DimensionServiceKey/0.0.2560.1600@0.0.2560.1600" timestamp="1725304996386" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task1/sample2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV_1" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+              <header>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </header>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1/sample.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV_1" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+              <header>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </header>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/IntroductiontoNotebooks.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Task1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
