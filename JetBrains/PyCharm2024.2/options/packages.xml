@@ -1,9 +1,0 @@
-<application>
-  <component name="PyPackageService">
-    <option name="additionalRepositories">
-      <list>
-        <option value="https://github.com/numpy/numpy.git/" />
-      </list>
-    </option>
-  </component>
-</application>

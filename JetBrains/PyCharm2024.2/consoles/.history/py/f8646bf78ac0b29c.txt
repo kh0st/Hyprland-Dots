@@ -1,1 +1,0 @@
-install "numpy=1.26.4" -y
